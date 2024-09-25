@@ -12,3 +12,4 @@ amount of stocks at X. Normally, the strike price X is set at a discount of the 
 price S0. This explains why the accumulator is also called “discounted stock” among public.
 On the other hand, the profit from an accumulator contract is capped by an knock-out barrier
 H which is set higher than S0.
+#DAD
