@@ -1,3 +1,4 @@
+# The option
 The “accumulator” or “accumulative forward” is a daily accumulated and knock-out structured
 product linked to the performance of an underlying asset. It can be considered as a portfolio
 of forward contracts with the “occupation time” feature. The accumulated amount of assets
@@ -12,4 +13,4 @@ amount of stocks at X. Normally, the strike price X is set at a discount of the 
 price S0. This explains why the accumulator is also called “discounted stock” among public.
 On the other hand, the profit from an accumulator contract is capped by an knock-out barrier
 H which is set higher than S0.
-#DAD
+
